@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm install && tsc",
     "tsc": "tsc",
-    "start": "node src/index.js"
+    "start": "node build/index.js"
   },
   "keywords": [],
   "author": "",
